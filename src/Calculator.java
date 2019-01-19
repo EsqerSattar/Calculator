@@ -12,6 +12,10 @@ public class Calculator {
         return num1* num2;
     }
 
-    //we are going to use devision method
+    //we are going to use devision method in last
+
+    public static double divid(double n1, double n2){
+        return n1/n2;
+    }
 
 }
