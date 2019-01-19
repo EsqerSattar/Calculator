@@ -13,5 +13,8 @@ public class Calculator {
     }
 
     //we are going to use devision method
+    
+    public static double divide (double num1, num2){
+        return num1/num2;
 
 }
