@@ -12,4 +12,6 @@ public class Calculator {
         return num1* num2;
     }
 
+    //we are going to use devision method
+
 }
